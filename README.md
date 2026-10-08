@@ -9,4 +9,4 @@ I'm a documentation engineer with deep experience across multiple technical disc
 - **AI engineering**: [AI-assisted payment scheduling](https://github.com/pcimring/ai-assisted-payment-scheduling), an agent that redistributes a schedule from plain-language chat, with every number independently verified before it's shown
 - **Open-source docs contributions**: merged PRs in [LangChain](https://github.com/langchain-ai/docs/pulls?q=is%3Apr+is%3Amerged+author%3Apcimring) and [Camunda](https://github.com/camunda/camunda-docs/pull/9394)
 
-More at my [portfolio](https://pcimring.github.io) · [LinkedIn](https://www.linkedin.com/in/peter-cimring)
+More at my [portfolio](https://petercimring.space) · [LinkedIn](https://www.linkedin.com/in/peter-cimring)
