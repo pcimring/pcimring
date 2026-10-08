@@ -1,8 +1,6 @@
-# Hi, I'm Peter 👋
+### AI-Assisted Workflows · Documentation Engineering · Building & Coding
 
-AI-Assisted Workflows · Documentation Engineering · Building & Coding
-
-I am a documentation engineer with a background on both sides of product development: product owner and solutions engineer. This mix is why I treat documentation as a usability problem, not just a writing problem.
+👋 Hi, I'm Peter. I am a documentation engineer with a background on both sides of product development: product owner and solutions engineer. This mix is why I treat documentation as a usability problem, not just a writing problem.
 
 Above all, I believe in learning by building - and giving back to the open-source tools that I use.
 
