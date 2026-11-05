@@ -1,6 +1,8 @@
 ### AI Solutions Builder · Support Engineer · Documentation Engineer
 
-👋 Hi, I'm Peter. I am a documentation engineer with a background on both sides of product development: product owner and customer support. This mix is why I treat documentation as a usability problem, not just a writing problem.
+👋 Hi, I'm Peter. I build AI solutions around what customers need, and then keep them running.
+
+As a product owner, I helped create customer solutions, and as a support lead, I saw where they fell short. As a documentation engineer, I owned a developer hub and built AI workflows to reduce that friction. That's why I build with all three in mind.
 
 Above all, I believe in learning by building - and giving back to the open-source tools that I use.
 
